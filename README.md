@@ -18,6 +18,9 @@ Adem is here. I'm a AWS & DEVOPS Solution Architect | IT Specialist  <img src="h
  <li>Lambda</li>
  <li>EKS</li>
  <li>RDS</li>
+ <li>Pyhton</li>
+ <li>Linux</li>
+ <li>SQL</li>
  </ul>
  <ul> <strong>DEVOPS</strong>   <img src="https://github.com/asimsek29/asimsek29/blob/master/DEVOPS.gif" alt="devops" width=480 height=auto align="right">
  <li>Docker</li>
@@ -26,7 +29,9 @@ Adem is here. I'm a AWS & DEVOPS Solution Architect | IT Specialist  <img src="h
  <li>Grafana</li>
  <li>Prometheus</li>
  <li>Ansible</li>
+ <li>Terraform</li>
  <li>Sonatype Nexus</li>
+ <li>Selenium</li>
  </ul>
 
 <a href="https://www.linkedin.com/in/adem-simsek-832a051b8/" target="_blank">
